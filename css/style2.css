@@ -160,7 +160,7 @@ p{
         background-color: darkkhaki;
     }
 }      
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     header {
         flex-direction: column;
         height: max-content;
